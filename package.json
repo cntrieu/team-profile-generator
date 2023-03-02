@@ -1,0 +1,37 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "A profile generator that takes employee information to generate an HTML webpage and summary",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cntrieu/team-profile-generator.git"
+  },
+  "keywords": [
+    "team",
+    "profile",
+    "generator",
+    "html",
+    "summary",
+    "information",
+    "employee"
+  ],
+  "author": "cntrieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cntrieu/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/cntrieu/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
