@@ -52,7 +52,7 @@ const createTeams = (managerArray, engineerArray, internArray) => {
                 </div>
                 <div class="card-body">
                 <p class="card-text border mb-0 p-1">ID: ${intern.id} </p>
-                <p class="card-text border mb-0p-1">Email: <a href="mailto:${intern.email}">${intern.email}</a></p>
+                <p class="card-text border mb-0 p-1">Email: <a href="mailto:${intern.email}">${intern.email}</a></p>
                 <p class="card-text border p-1">School: ${intern.school}</p>
                 </div>
             </div>`;

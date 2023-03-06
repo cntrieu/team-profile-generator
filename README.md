@@ -30,7 +30,10 @@ Contact me
 
 ## Tests
 
-n/a
+Here is a video demonstrating the functionality using the command line interface:
+
+[Demo Video](https://user-images.githubusercontent.com/89812084/223197609-f86bce70-8392-449f-84b9-5a0e54310d96.webm)
+
 
 ## License
 
