@@ -17,7 +17,7 @@ A profile generator that takes employee information to generate an HTML webpage 
 
 ## Installation
 
-In the command line interface, start by typing 'npm i' to install
+After cloning the repo, in the command line interface start by typing 'npm i' to install
 
 ## Usage
 
